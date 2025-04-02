@@ -5,3 +5,6 @@ const login = "Login pade added";
 console.log(login);
 
 console.log("latest Update");
+
+// i am fixing some Bug
+console.log("Bug Fixed");
